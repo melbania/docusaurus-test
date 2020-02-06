@@ -96,13 +96,13 @@ const siteConfig = {
   // Expand/collapse the links and subcategories under categories.
   // docsSideNavCollapsible: true,
 
-  editUrl: "https://github.com/melbania/docusaurus-test/edit/master/docs/"
+  editUrl: "https://github.com/melbania/docusaurus-test/edit/master/docs/",
 
   // Show documentation's last contributor's name.
-  // enableUpdateBy: true,
+  enableUpdateBy: true,
 
   // Show documentation's last update time.
-  // enableUpdateTime: true,
+  enableUpdateTime: true
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
