@@ -24,13 +24,13 @@ const siteConfig = {
   title: "Test Site", // Title for your website.
   tagline: "A website for testing",
   url: "https://melbania.github.io", // Your website URL
-  baseUrl: "/testProject/", // Base URL for your project */
+  baseUrl: "/docusaurus-test/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: "test-site",
+  projectName: "docusaurus-test",
   organizationName: "melbania",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
@@ -90,11 +90,13 @@ const siteConfig = {
 
   // Open Graph and Twitter card images.
   ogImage: "img/undraw_online.svg",
-  twitterImage: "img/undraw_tweetstorm.svg"
+  twitterImage: "img/undraw_tweetstorm.svg",
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
   // docsSideNavCollapsible: true,
+
+  editUrl: "https://github.com/melbania/docusaurus-test/edit/master/docs/"
 
   // Show documentation's last contributor's name.
   // enableUpdateBy: true,
